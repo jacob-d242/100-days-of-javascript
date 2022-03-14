@@ -12,8 +12,11 @@ button{
     -ms-border-radius:5px;
     -o-border-radius:5px;
 }
-#increment-btn{
+#increment-btn {
     background:darkred;
+}
+#save-btn {
+    background:darkblue;
 }
 h2{
     font-size50px;
